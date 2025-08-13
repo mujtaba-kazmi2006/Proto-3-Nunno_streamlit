@@ -18,4 +18,4 @@ Set these in your Streamlit Cloud secrets:
 - `NEWS_API_KEY` - NewsAPI key for market news
 
 ## Live Demo
-[View on Streamlit Cloud](your-app-url-here)
+[View on Streamlit Cloud](https://proto-3-nunnoapp-vji8ytcrdutrcmb8pqmupr.streamlit.app/)
